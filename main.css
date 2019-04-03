@@ -1,0 +1,45 @@
+nav > a {
+	display: inline-block;
+	padding-right: 6px;
+}
+
+
+
+html {
+/*    height: 100%; */
+
+height:auto;
+}
+body {
+    background:#000;
+/*  background: url(bg.png);
+    background-repeat:repeat;*/
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    color: #fff;
+    font-family: Proxima, sans-serif;
+}
+
+
+#empty {
+    display:block;
+    clear:both;
+    height:150px;
+    width:auto;
+    background:none;
+    border:none;
+}
+
+
+#contact ul{
+    margin-left:10px;
+    list-style:none;
+}
+
+
+#contact ul li{
+    margin-left:0px;
+    list-style:none;
+}
+
